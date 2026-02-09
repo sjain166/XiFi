@@ -1,0 +1,35 @@
+GRAPH DESCRIPTIONS - ONE-LINERS
+===============================================================================
+
+1. ble2x_vs_wifi_comparison.png
+   Compares power consumption and packet loss between BLE 2x repetition
+   and WiFi UDP broadcast at equivalent transmission rates.
+
+2. ble_wifi_connected_vs_disconnected.png
+   Shows power overhead of maintaining WiFi connection in background while
+   performing BLE advertising.
+
+3. energy_per_byte_comparison.png
+   Compares energy efficiency (mJ/byte) across BLE and WiFi modes at
+   different transmission intervals.
+
+4. power_comparison.png
+   Compares power consumption between WiFi-only and hybrid BLE solution
+   across different delay tolerance settings.
+
+5. wifi_connect_disconnect_power.png
+   Shows average power consumption and energy cost during WiFi connection
+   and disconnection cycles.
+
+6. wifi_idle_vs_ble_scanning.png
+   Compares power consumption between idle WiFi connection and active
+   BLE scanning at 1000ms intervals.
+
+7. energy_comparison_15sec.png
+   Compares total energy consumption across different communication modes
+   over 15 seconds.
+
+8. Effiwake_Power.png
+   Power analysis of EffiWake system operation.
+
+===============================================================================
